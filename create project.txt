@@ -1,0 +1,4 @@
+mkdir project
+cd project
+
+mvn archetype:generate "-DgroupId=com.sajithmym" "-DartifactId=MySQL_CRUD" "-DarchetypeArtifactId=maven-archetype-quickstart" "-DinteractiveMode=false"
